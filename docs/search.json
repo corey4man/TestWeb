@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TestWeb",
+    "section": "",
+    "text": "This is a Quarto website.\n-git add -A git commit -m ‘initial project setup’ git push"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

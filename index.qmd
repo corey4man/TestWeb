@@ -4,4 +4,6 @@ title: "TestWeb"
 
 This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-git add -A
+git commit -m 'initial project setup'
+git push
